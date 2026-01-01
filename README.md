@@ -5,8 +5,8 @@ I build scalable bots, AI systems and full-stack web applications.
 
 ### 🚀 Focus
 - Rust & systems programming  
-- AI agents & frameworks (**Agentropic**)  
-- Blockchain & smart contracts (Solana, Stellar/Pi, Anchor)  
+- AI agents & frameworks
+- Blockchain & smart contracts  
 - Backend & API architecture (MERN)
 
 ### 🛠️ Tech
