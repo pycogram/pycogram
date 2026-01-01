@@ -1,16 +1,14 @@
-## 👋 Hi, I’m Daniel (@pycogram)
+## 👋 Hi, I’m Ifesinachi Daniel 
 
 Full-stack developer & Rustacean.  
-I build scalable backends, mobile/web apps, and blockchain systems.
+I build scalable bots, full stack web applications, frontend websites.
 
 ### 🚀 Focus
 - Rust & systems programming  
 - AI agents & frameworks (Agentropic)  
-- Blockchain & smart contracts (Solana, Stellar/Pi)  
-- MERN stack & React Native
+- Blockchain & smart contracts (Solana, Stellar/Pi, Anchor)  
+- MERN stack
 
 ### 🛠️ Tech
-Rust · TypeScript · Node.js · Express · MongoDB · React · React Native · Docker
+Rust · TypeScript · Node.js · Express · MongoDB · React · Docker · Figma · PHP 
 
-### 📫 Reach me
-- GitHub: @pycogram
