@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I’m Daniel (@pycogram)
 
-<!--
-**pycogram/pycogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer & Rustacean.  
+I build scalable backends, mobile/web apps, and blockchain systems.
 
-Here are some ideas to get you started:
+### 🚀 Focus
+- Rust & systems programming  
+- AI agents & frameworks (Agentropic)  
+- Blockchain & smart contracts (Solana, Stellar/Pi)  
+- MERN stack & React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech
+Rust · TypeScript · Node.js · Express · MongoDB · React · React Native · Docker
+
+### 📫 Reach me
+- GitHub: @pycogram
