@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ifesinachi Daniel
+## 👋 Hi, I’m Daniel
 
 Full-stack developer & Rustacean.  
 I build scalable bots, AI systems and full-stack web applications.
